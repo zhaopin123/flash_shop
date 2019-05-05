@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': 'fresh8',
         'USER': 'root',
         'PASSWORD': '123456',
-        'HOST': '119.23.76.19',
+        'HOST': '127.0.0.1',
         'PORT': 3306,
         'OPTIONS':{'isolation_level':None}
     }
